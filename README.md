@@ -1,5 +1,5 @@
 <div class="sag">
-    <th><img alt="GitHub License" src="https://img.shields.io/github/license/suleymangunel/ESP32S3-HallEffect?label=License&style=plastic"></th>
+    <th><img alt="GitHub License" src="https://img.shields.io/github/license/suleymangunel/ESP32S3-HallEffect?style=plastic&label=License"></th>
     <th><img alt="Static Badge" src="https://img.shields.io/badge/Type-Firmware-gold?style=plastic"></th>
     <th><img alt="Static Badge" src="https://img.shields.io/badge/Language-C-red?style=plastic"></th>
     <th><img alt="Static Badge" src="https://img.shields.io/badge/Platform-ESP32%2FS3-blue?style=plastic"></th>
