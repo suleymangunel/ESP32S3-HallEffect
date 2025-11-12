@@ -1,3 +1,12 @@
+<div class="sag">
+    <th><img alt="GitHub License" src="https://img.shields.io/github/license/suleymangunel/ESP32S3-HallEffect?label=License&style=plastic"></th>
+    <th><img alt="Static Badge" src="https://img.shields.io/badge/Type-Firmware-gold?style=plastic"></th>
+    <th><img alt="Static Badge" src="https://img.shields.io/badge/Language-C-red?style=plastic"></th>
+    <th><img alt="Static Badge" src="https://img.shields.io/badge/Platform-ESP32%2FS3-blue?style=plastic"></th>
+    <th><img alt="Static Badge" src="https://img.shields.io/badge/Framework-ESP%E2%94%80IDF-white?style=plastic"></th>
+    <th><img alt="Static Badge" src="https://img.shields.io/badge/OS-FreeRTOS-black?style=plastic"></th>
+</div>
+
 # ESP32-S3-DevKitC-1_HallEffectSensor_RGB
 
 In this project we will be turn on/off ESP32's built in RGB LED according to hall effect sensor's state which connected to ESP32's GPIO #4 Pin. ESP32's built in RGB LED connected to GPIO #48 in v1.0, GPIO #38 in v1.1 
